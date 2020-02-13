@@ -1,4 +1,4 @@
- ```javascript
+```javascript
 //simple basic example of handling updates from Telegram bot by Google Apps Script
 function doPost(e) {
   
