@@ -13,5 +13,5 @@ Code in the example implements the following:
 * notify bot owner about the update
 
 You can find few tips here:
-English: *https://research-based.blogspot.com/2020/07/telegram-bot-with-google-apps-script.html*
+English: *https://research-based.blogspot.com/2020/07/telegram-bot-with-google-apps-script.html*  
 Russian: *https://research-based.blogspot.com/2020/02/telegram-bot-google-apps-script.html*
