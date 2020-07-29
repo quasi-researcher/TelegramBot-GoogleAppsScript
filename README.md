@@ -12,5 +12,6 @@ Code in the example implements the following:
 * log the date, author and text of the update into a Google spreadsheet
 * notify bot owner about the update
 
-You can find few tips here (in Russian):
-*https://research-based.blogspot.com/2020/02/telegram-bot-google-apps-script.html*
+You can find few tips here:
+English: *https://research-based.blogspot.com/2020/07/telegram-bot-with-google-apps-script.html*
+Russian: *https://research-based.blogspot.com/2020/02/telegram-bot-google-apps-script.html*
